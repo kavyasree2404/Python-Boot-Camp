@@ -1,0 +1,6 @@
+print ('Hello World')
+print("swec")
+var1="python"
+print("good morning",var1)
+name=input("enter your name\n")
+print("hello",name)
