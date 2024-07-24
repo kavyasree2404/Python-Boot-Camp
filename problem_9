@@ -1,0 +1,14 @@
+#problem_9
+#find the elements that is present in K+ith index 
+#k=3 given by User 
+#n=2
+#3 6 8 4 61 2
+#op=2
+
+k=int(input())
+n=int(input())
+my_list=list(map(str,input().split(" ")))
+for i in range(0,len(my_list)):
+    print(my_list(k+n),end="")
+    break
+
